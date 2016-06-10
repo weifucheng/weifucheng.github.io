@@ -1441,7 +1441,7 @@ form {
 .temp-posts {
   margin-bottom: 350px; }
 
-pre,code {
+pre code {
     background-color: #D0D0D0;
     display: block;
     margin: 1em 0;
