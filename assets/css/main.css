@@ -1442,8 +1442,10 @@ form {
   margin-bottom: 350px; }
 
 pre code {
-    background-color: #D0D0D0;
     display: block;
     margin: 1em 0;
     overflow: auto;
+}
+code{
+  background-color: #D0D0D0;
 }
