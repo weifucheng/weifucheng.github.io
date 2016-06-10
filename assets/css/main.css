@@ -1440,3 +1440,8 @@ form {
 
 .temp-posts {
   margin-bottom: 350px; }
+
+code {
+    background-color: #D0D0D0;
+    display: block;
+}
