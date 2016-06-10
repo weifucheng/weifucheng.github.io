@@ -1,11 +1,7 @@
 ---
 layout: post
 title: "动手搭建 iOS CI 环境之「了解 xcodebuild 命令」"
-categories:
-- iOS
-tags:
-- iOS
-
+categories: blog
 
 ---
 
