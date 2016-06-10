@@ -582,7 +582,7 @@ body {
 
 h2 {
   color: #303e49;
-  padding: 20px 0 15px; }
+  padding: 10px 0 10px; }
 
 @media sceen and (max-width: 480px) {
   h2 {
