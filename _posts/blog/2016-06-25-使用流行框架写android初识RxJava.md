@@ -100,7 +100,7 @@ RxJava最好配合Java8中的Lamada表达式，这样会使你的代码异常简
 这是个系列文章，教大家使用RxJava，基本把常用的RxJava变化全写了
 
 
-- [http://gank.io/post/560e15be2dca930e00da1083#toc_8](实现的详解)
+- [http://gank.io/post/560e15be2dca930e00da1083#toc_8](http://gank.io/post/560e15be2dca930e00da1083#toc_8)
 这篇是抛物线大神写的，内容比较透彻的分析了RxJava的实现原理
 
 - 还有就是官方文档了
